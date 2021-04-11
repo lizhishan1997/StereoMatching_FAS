@@ -4,6 +4,8 @@ This Code if from article "An Effective Face Anti-Spoofing Method via Stereo Mat
 
 Since product is to be used for commercial purposes, we open the test source code here and provide several test data. The structure of our method can be fully understood from the test code. 
 
+The deep learning framework we use is Pytorch 1.4
+
 To test, just run:
 ```
 python Test_images.py
