@@ -12,3 +12,14 @@ python Test_images.py
 ```
 
 If you have any interest or questions, please contact with us. (zhishanli@zju.edu.cn or yuanjiayan@reconova.com)
+
+BibTex:
+```
+@article{li2021effective,
+  title={An Effective Face Anti-Spoofing Method via Stereo Matching},
+  author={Li, Zhishan and Yuan, Jiayan and Jia, Baozhi and He, Yifan and Xie, Lei},
+  journal={IEEE Signal Processing Letters},
+  year={2021},
+  publisher={IEEE}
+}
+```
