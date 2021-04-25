@@ -1,6 +1,6 @@
 # StereoMatching_FAS
 
-This code is from article "An Effective Face Anti-Spoofing Method via Stereo Matching" (Paper has been accepted by IEEE Signal Processing Letters).
+This code is from article "An Effective Face Anti-Spoofing Method via Stereo Matching" ([Paper](https://ieeexplore.ieee.org/document/9403897) has been accepted by IEEE Signal Processing Letters).
 
 Since product is to be used for commercial purposes, we open the test source code here and provide several test data. The structure of our method can be fully understood from the test code. 
 
